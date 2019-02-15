@@ -2,7 +2,7 @@
  * Mifare reader for checking UID and version of transpoder (classic/desfire etc).
  * 
  * Return on display and ser.mon. UID in HEX, and version of transpoder.
- * Writed for selfedu, and as quick project for controling if randomUID are enabled(in highsecured ACS).
+ * Written for selfedu, and as quick project for controling if randomUID are enabled(in highsecured ACS).
  * Used generic RFID MFRC522 modul, Arduino UNO, and display 1602 with I2C modul.
  * 
  * Known bugs: 
